@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-   [![website](./svg/linkedin.svg)](https://codestackr.com#gh-light-mode-only](https://www.linkedin.com/in/mohammad-khosrotabar-791467276/))
+   [![website](./svg/linkedin.svg)](https://www.linkedin.com/in/mohammad-khosrotabar-791467276/))
 </p>
 
 
