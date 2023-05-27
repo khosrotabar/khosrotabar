@@ -33,8 +33,6 @@
    <p>I graduated from the Iran University of Science and Technology in the field of electrical power</p>
    <p>2023 Goals: Learn kotlin</p>
    <p></p>
-   <ح>
-   
    
 </div>
 
