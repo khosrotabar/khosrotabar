@@ -51,15 +51,10 @@
 
 ## Top Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khosrotabar&repo=khabaram)](https://github.com/khosrotabar/khabaram)
-<br />
-<br />
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khosrotabar&repo=khabaram)](https://github.com/khosrotabar/khabaram) &nbsp;&nbsp;
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khosrotabar&repo=Full-Blog-Post)](https://github.com/khosrotabar/Full-Blog-Post)
-<br />
-<br />
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khosrotabar&repo=Events-Blog-Post)](https://github.com/khosrotabar/Events-Blog-Post)
-<br />
-<br />
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khosrotabar&repo=Events-Blog-Post)](https://github.com/khosrotabar/Events-Blog-Post) &nbsp;&nbsp;
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khosrotabar&repo=Microsoft-To-Do-List-Tasks)](https://github.com/khosrotabar/Microsoft-To-Do-List-Tasks)
 
 
