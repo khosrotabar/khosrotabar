@@ -48,9 +48,16 @@
    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
 </p>
 
+
+## Top Repositories
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khosrotabar&repo=khabaram)](https://github.com/khosrotabar/khabaram)
-
-
+<br />
+<br />
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khosrotabar&repo=Full-Blog-Post)](https://github.com/khosrotabar/Full-Blog-Post)
+<br />
+<br />
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khosrotabar&repo=Events-Blog-Post)](https://github.com/khosrotabar/Events-Blog-Post)
 
 <!---
 khosrotabar/khosrotabar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
