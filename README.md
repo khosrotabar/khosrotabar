@@ -34,12 +34,12 @@
 
 ## About
 
-- I do fullstack and a bit of everything
+- 👨‍💻 I do fullstack and a bit of everything
 - 🥅 2023 Goals: Learn kotlin programmiong language
-- I am open to work
-- I graduated from the Iran University of Science and Technology in the field of electrical power
-- Fun fact: I love playing computer games and watching tv series
-- I am living in Iran - Tehran
+- 👯 I am open to work
+- 🎓 I graduated from the Iran University of Science and Technology in the field of electrical power
+- ⚡ Fun fact: I love playing computer games and watching tv series
+- 🏠 I'm currently living in Iran - Tehran
 
 
 
