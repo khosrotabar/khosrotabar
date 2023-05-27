@@ -5,7 +5,9 @@
 </div>
 
 <p align="center">
-   [![website](./svg/linkedin.svg)]
+   <a href="https://www.linkedin.com/in/mohammad-khosrotabar-791467276">
+      <img src="./svg/linkedin.svg">
+   </a>
 </p>
 
 
@@ -13,7 +15,6 @@
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
 </p>
 
-[website]: https://www.linkedin.com/in/mohammad-khosrotabar-791467276
 <!---
 khosrotabar/khosrotabar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
