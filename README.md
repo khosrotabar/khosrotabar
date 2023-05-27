@@ -31,7 +31,7 @@
 <div align="left">
    <h2>About</h2>
    I do fullstack and a bit of everything
-   - 🥅 2023 Goals: Learn kotlin programmiong language
+    🥅 2023 Goals: Learn kotlin programmiong language
    I am open to work
    I graduated from the Iran University of Science and Technology in the field of electrical power
    Fun fact: I love playing computer games and watching tv series
