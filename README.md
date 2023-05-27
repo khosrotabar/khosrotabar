@@ -23,6 +23,8 @@
 </div>
 
 <div align="center">
+   <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/khosrotabar/khosrotabar?color=0f80c1&label=views%20today&logo=github&logoColor=ffffff">
+   &nbsp;&nbsp;
    <img alt="GitHub followers" src="https://img.shields.io/github/followers/khosrotabar?color=8bb803&logo=github">
 </div>
 
