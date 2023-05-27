@@ -5,13 +5,15 @@
 </div>
 
 <p align="center">
-   [![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
+   [![website](./svg/linkedin.svg)]
 </p>
 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
 </p>
+
+[website]: https://www.linkedin.com/in/mohammad-khosrotabar-791467276
 <!---
 khosrotabar/khosrotabar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
