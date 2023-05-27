@@ -3,7 +3,7 @@
    /blob/main/svg/pronouns/hehim.svg
    
 <!--    <img src="./svg/pronouns/hehin.svg/x/y?subject=He&object=Him&height=20">  -->
-   <img src="/blob/main/svg/pronouns/hehim.svg"> 
+   <img src="./svg/pronouns/hehim.svg"> 
 </div>
 
 <p align="center">
