@@ -23,7 +23,7 @@
 </div>
 
 <div align="center">
-   ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+   ![example branch parameter](https://github.com/github/docs/actions/workflows/main.yml/badge.svg?branch=feature-1)
 </div>
 
 
