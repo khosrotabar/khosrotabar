@@ -23,7 +23,7 @@
 </div>
 
 <div align="center">
-   [![example branch parameter](https://github.com/github/docs/actions/workflows/main.yml/badge.svg?branch=feature-1)]
+   ![GitHub followers](https://img.shields.io/github/followers/khosrotabar?color=8bb803&logo=github)
 </div>
 
 
