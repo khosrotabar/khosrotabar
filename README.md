@@ -48,8 +48,8 @@
    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
 </p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khosrotabar&repo=khabaram)](https://github.com/khosrotabar/khabaram)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khosrotabar&repo=khabaram)](https://github.com/khosrotabar/khabaram)
 
 
 <!---
