@@ -6,7 +6,7 @@
 
 <p align="center">
    <a href="https://www.linkedin.com/in/mohammad-khosrotabar-791467276">
-      <img height="" src="./svg/linkedin.png">
+      <img height="30" src="./svg/linkedin.png">
    </a>
    &nbsp;&nbsp;
    <a href="https://mhkhosrotabar.com">
