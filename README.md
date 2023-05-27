@@ -43,14 +43,13 @@
 
 ## Languages and Tools
 
-[![ForTheBadge uses-js](http://ForTheBadge.com/images/badges/uses-js.svg)](http://ForTheBadge.com)
 <p align="center">
    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">   
-   [![ForTheBadge uses-css](http://ForTheBadge.com/images/badges/uses-css.svg)](http://ForTheBadge.com)
    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
 </p>
 
-[![Readme Card](https:/api/pin/?username=khosrotabar&repo=khabaram)](https://github.com/khosrotabar/khabaram)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khosrotabar&repo=khabaram)](https://github.com/khosrotabar/khabaram)
+
 
 
 <!---
