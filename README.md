@@ -44,8 +44,15 @@
 ## Languages and Tools
 
 <p align="center">
-   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html" style="vertical-align:top; margin:4px">   
-   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
+   <img src="https://img.shields.io/badge/HTML5-239120?style=for-the-badge&logo=html5&logoColor=white&color=e96228" alt="html" style="vertical-align:top; margin:4px">
+   <img src="https://img.shields.io/badge/CSS3-239120?style=for-the-badge&logo=css3&logoColor=white&color=2862e9" alt="html" style="vertical-align:top; margin:4px">
+   <img src="https://img.shields.io/badge/JAVASCRIPT-239120?style=for-the-badge&logo=javascript&logoColor=white&color=cfb431" alt="html" style="vertical-align:top; margin:4px">
+   <img src="https://img.shields.io/badge/REACT-239120?style=for-the-badge&logo=react&logoColor=white&color=54cdea" alt="html" style="vertical-align:top; margin:4px">
+   <img src="https://img.shields.io/badge/NEXTJS-239120?style=for-the-badge&logo=next.js&logoColor=white&color=68b945" alt="html" style="vertical-align:top; margin:4px">
+   <img src="https://img.shields.io/badge/PHP-239120?style=for-the-badge&logo=php&logoColor=white&color=7377ad" alt="html" style="vertical-align:top; margin:4px">
+   <img src="https://img.shields.io/badge/MYSQL-239120?style=for-the-badge&logo=mysql&logoColor=white&color=005e86" alt="html" style="vertical-align:top; margin:4px">
+   <img src="https://img.shields.io/badge/MONGODB-239120?style=for-the-badge&logo=mongodb&logoColor=white&color=55ac4d" alt="html" style="vertical-align:top; margin:4px">
+   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white&color=e96228" alt="html" style="vertical-align:top; margin:4px">
 </p>
 
 
