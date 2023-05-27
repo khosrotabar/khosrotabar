@@ -8,6 +8,10 @@
    <a href="https://www.linkedin.com/in/mohammad-khosrotabar-791467276">
       <img src="./svg/linkedin.svg">
    </a>
+   &nbsp;&nbsp;
+   <a href="https://mhkhosrotabar.com">
+      <img src="./svg/global.svg">
+   </a>
 </p>
 
 
