@@ -52,7 +52,9 @@
    <img src="https://img.shields.io/badge/PHP-239120?style=for-the-badge&logo=php&logoColor=white&color=7377ad" alt="html" style="vertical-align:top; margin:4px">
    <img src="https://img.shields.io/badge/MYSQL-239120?style=for-the-badge&logo=mysql&logoColor=white&color=005e86" alt="html" style="vertical-align:top; margin:4px">
    <img src="https://img.shields.io/badge/MONGODB-239120?style=for-the-badge&logo=mongodb&logoColor=white&color=55ac4d" alt="html" style="vertical-align:top; margin:4px">
-   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white&color=e96228" alt="html" style="vertical-align:top; margin:4px">
+   <img src="https://img.shields.io/badge/BOOTSTRAP5-239120?style=for-the-badge&logo=bootstrap&logoColor=white&color=8913fb" alt="html" style="vertical-align:top; margin:4px">
+   <img src="https://img.shields.io/badge/ADOBE%20XD-239120?style=for-the-badge&logo=adobexd&logoColor=white&color=450135" alt="html" style="vertical-align:top; margin:4px">
+   <img src="https://img.shields.io/badge/FIGMA-239120?style=for-the-badge&logo=figma&logoColor=white&color=f76e5f" alt="html" style="vertical-align:top; margin:4px">
 </p>
 
 
