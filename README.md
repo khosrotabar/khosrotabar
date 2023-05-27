@@ -23,7 +23,7 @@
 </div>
 
 <div align="center">
-   ![GitHub followers](https://img.shields.io/github/followers/khosrotabar?color=8bb803&logo=github)
+   <img alt="GitHub followers" src="https://img.shields.io/github/followers/khosrotabar?color=8bb803&logo=github">
 </div>
 
 
