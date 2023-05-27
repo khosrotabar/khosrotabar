@@ -30,12 +30,12 @@
 
 <div align="left">
    <h2>About</h2>
-   <p>I do fullstack and a bit of everything</p>
-   <p>2023 Goals: Learn kotlin programmiong language</p>
-   <p>I am open to work</p>
-   <p>I graduated from the Iran University of Science and Technology in the field of electrical power</p>
-   <p>Fun fact: I love playing computer games and watching tv series</p>
-   <p><I am living in Iran - Tehran</p>
+   I do fullstack and a bit of everything
+   -🥅 2023 Goals: Learn kotlin programmiong language
+   I am open to work
+   I graduated from the Iran University of Science and Technology in the field of electrical power
+   Fun fact: I love playing computer games and watching tv series
+   I am living in Iran - Tehran
 </div>
 
 
