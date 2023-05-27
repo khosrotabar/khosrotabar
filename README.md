@@ -4,7 +4,7 @@
    <img src="./svg/pronouns/hehim.svg"> 
 </div>
 
-<p align="center">
+<div align="center">
    <a href="https://www.linkedin.com/in/mohammad-khosrotabar-791467276">
       <img height="36" src="./svg/linkedin.png">
    </a>
@@ -12,15 +12,17 @@
    <a href="https://mhkhosrotabar.com">
       <img src="./svg/global.svg">
    </a>
-</p>
+</div>
 
 <div align="center">
    <h3>
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
       🙎 Mohammad Khosrotabar | 💻 Full Stack Web Developer | 🛸 Iran , Tehran 
-      <img     src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
    </h3>
 </div>
+
+
 
 
 <p align="center">
