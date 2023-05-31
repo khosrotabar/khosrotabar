@@ -12,6 +12,10 @@
    <a href="https://mhkhosrotabar.com">
       <img src="./svg/global.svg">
    </a>
+   &nbsp;&nbsp;
+   <a href="https://mkhosrotabar.storage.iran.liara.space/Mohammad%20Khosrotabar%20-%20CV.pdf">
+      <img src="./svg/icons8-cv-64.png">
+   </a>
 </div>
 
 
