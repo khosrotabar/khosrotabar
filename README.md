@@ -59,6 +59,11 @@
 </p>
 
 
+## My Resume
+
+<p cursor="pointer"><a href="https://mkhosrotabar.storage.iran.liara.space/Mohammad%20Khosrotabar%20-%20CV.pdf"><a/>See my CV</p>
+
+
 ## Top Repositories
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khosrotabar&repo=khabaram)](https://github.com/khosrotabar/khabaram) &nbsp;&nbsp;
