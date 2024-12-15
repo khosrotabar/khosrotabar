@@ -69,7 +69,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khosrotabar&repo=Full-Blog-Post)](https://github.com/khosrotabar/Full-Blog-Post)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khosrotabar&repo=Events-Blog-Post)](https://github.com/khosrotabar/Events-Blog-Post) &nbsp;&nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khosrotabar&repo=Notion-Clone)](https://github.com/khosrotabar/notion-clone)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khosrotabar&repo=notion-clone)](https://github.com/khosrotabar/notion-clone)
 
 
 <h2 align="center">🤝 Support</h2>
