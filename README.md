@@ -38,8 +38,8 @@
 <h2>About</h2>
 
 - 👨‍💻 I do fullstack and a bit of everything
-- 🥅 2023 Goals: Learn kotlin programmiong language
-- 👯 I am open to work
+- 🥅 2025 Goals: Learn Mobile App Development
+- 👯 I am currently working at a company named Roshan, an AI company.
 - 🎓 I graduated from the Iran University of Science and Technology in the field of electrical power
 - ⚡ Fun fact: I love playing computer games and watching tv series
 - 🏠 I'm currently living in Iran - Tehran
