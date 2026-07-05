@@ -126,15 +126,11 @@ I'm currently focused on improving and building projects around:
 
 ---
 
-## GitHub Stats
+## Repository Direction
 
-<div align="center">
+I'm keeping my public repositories focused on projects that match my professional direction: full-stack web applications, backend APIs, dashboards, and SaaS MVPs.
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=khosrotabar&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khosrotabar&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
+Older practice projects are kept only when they show part of my learning path, while new repositories will focus more on production-minded code, clean structure, documentation, and case studies.
 
 ---
 
