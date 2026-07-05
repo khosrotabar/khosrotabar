@@ -1,92 +1,155 @@
 <div align="center">
-   <h1>Hi there, I'm <a href="https://git.io/typing-svg"><img style="margin-bottom: -7px" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&duration=4000&pause=1000&color=2F81F7&vCenter=true&width=170&height=35&lines=Mohammad" alt="Typing SVG" /></a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
-   <img src="./svg/pronouns/hehim.svg"> 
+
+# Hi, I'm Mohammad Khosrotabar 👋
+
+### Full-Stack Developer | Go Backend | React & Next.js
+
+I build web applications, backend APIs, dashboards, internal tools, and SaaS MVPs using Go, React, Next.js, TypeScript, and PostgreSQL.
+
+<br />
+
+<a href="https://khosrotabar.dev">
+  <img src="https://img.shields.io/badge/Portfolio-khosrotabar.dev-22d3ee?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/mohammad-khosrotabar">
+  <img src="https://img.shields.io/badge/LinkedIn-Mohammad%20Khosrotabar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/khosrotabar">
+  <img src="https://img.shields.io/badge/GitHub-khosrotabar-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
 </div>
 
+---
 
-<div align="center">
-   <a href="https://www.linkedin.com/in/mohammad-khosrotabar/">
-      <img height="36" src="./svg/linkedin.png">
-   </a>
-   &nbsp;&nbsp;
-   <a href="#">
-      <img src="./svg/global.svg">
-   </a>
-   &nbsp;&nbsp;
-   <a href="https://mkhosrotabar.storage.iran.liara.space/Mohammad%20Khosrotabar%20CV.pdf">
-      <img height="36" src="./svg/icons8-cv-64.png">
-   </a>
-</div>
+## About Me
 
+I'm a Full-Stack Developer focused on building practical, maintainable, and production-minded software.
 
-<div align="center">
-   <h3>
-      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-      🙎 Mohammad Khosrotabar | 💻 Full Stack Web Developer | 🛸 Iran , Tehran 
-      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-   </h3>
-</div>
+My main focus is creating:
 
+- Web applications
+- SaaS MVPs
+- Admin panels and dashboards
+- Backend APIs with Go
+- API-driven internal tools
+- Authentication and role-based access systems
 
-<div align="center">
-   <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/khosrotabar/khosrotabar?color=0f80c1&label=views%20today&logo=github&logoColor=ffffff">
-   &nbsp;&nbsp;
-   <img alt="GitHub followers" src="https://img.shields.io/github/followers/khosrotabar?color=8bb803&logo=github">
-</div>
+I have experience working with React, Next.js, TypeScript, Go, PostgreSQL, REST APIs, Redis, JWT, RBAC, middleware, audit logging, and observability.
 
+Currently, I'm improving my backend engineering skills with Go, Java, Spring Boot, system design, and production-ready software practices.
 
-<h2>About</h2>
+---
 
-- 👨‍💻 I do fullstack and a bit of everything
-- 🥅 2026 Goals: DO Fullstack works - GO lang and react and next js
-- 👯 I am currently working at a company named Atlas(bank mellat company).
-- 🎓 I graduated from the Iran University of Science and Technology in the field of electrical power
-- ⚡ Fun fact: I love playing computer games and watching tv series
-- 🏠 I'm currently living in Iran - Tehran
+## Tech Stack
 
+### Frontend
 
-## Languages and Tools
-
-<p align="center">
-   <img src="https://img.shields.io/badge/HTML5-239120?style=for-the-badge&logo=html5&logoColor=white&color=e96228" alt="html" style="vertical-align:top; margin:4px">
-   <img src="https://img.shields.io/badge/CSS3-239120?style=for-the-badge&logo=css3&logoColor=white&color=2862e9" alt="html" style="vertical-align:top; margin:4px">
-   <img src="https://img.shields.io/badge/JAVASCRIPT-239120?style=for-the-badge&logo=javascript&logoColor=white&color=cfb431" alt="html" style="vertical-align:top; margin:4px">
-   <img src="https://img.shields.io/badge/REACT-239120?style=for-the-badge&logo=react&logoColor=white&color=54cdea" alt="html" style="vertical-align:top; margin:4px">
-   <img src="https://img.shields.io/badge/NEXTJS-239120?style=for-the-badge&logo=next.js&logoColor=white&color=68b945" alt="html" style="vertical-align:top; margin:4px">
-   <img src="https://img.shields.io/badge/REDUX-239120?style=for-the-badge&logo=redux&logoColor=white&color=7248b6" alt="html" style="vertical-align:top; margin:4px">
-   <img src="https://img.shields.io/badge/PHP-239120?style=for-the-badge&logo=php&logoColor=white&color=7377ad" alt="html" style="vertical-align:top; margin:4px">
-   <img src="https://img.shields.io/badge/MYSQL-239120?style=for-the-badge&logo=mysql&logoColor=white&color=005e86" alt="html" style="vertical-align:top; margin:4px">
-   <img src="https://img.shields.io/badge/MONGODB-239120?style=for-the-badge&logo=mongodb&logoColor=white&color=55ac4d" alt="html" style="vertical-align:top; margin:4px">
-   <img src="https://img.shields.io/badge/BOOTSTRAP5-239120?style=for-the-badge&logo=bootstrap&logoColor=white&color=8913fb" alt="html" style="vertical-align:top; margin:4px">
-   <img src="https://img.shields.io/badge/ADOBE%20XD-239120?style=for-the-badge&logo=adobexd&logoColor=white&color=450135" alt="html" style="vertical-align:top; margin:4px">
-   <img src="https://img.shields.io/badge/FIGMA-239120?style=for-the-badge&logo=figma&logoColor=white&color=f76e5f" alt="html" style="vertical-align:top; margin:4px">
+<p>
+  <img src="https://img.shields.io/badge/React-149ECA?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-2563EB?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
 
+### Backend
 
-## Top Repositories
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khosrotabar&repo=khabaram)](https://github.com/khosrotabar/khabaram) &nbsp;&nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khosrotabar&repo=Full-Blog-Post)](https://github.com/khosrotabar/Full-Blog-Post)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khosrotabar&repo=Events-Blog-Post)](https://github.com/khosrotabar/Events-Blog-Post) &nbsp;&nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khosrotabar&repo=notion-clone)](https://github.com/khosrotabar/notion-clone)
-
-
-<h2 align="center">🤝 Support</h2>
-
-<p align="center">🎀 Contributions (<a href="https://guides.github.com/introduction/flow" title="GitHub flow">GitHub Flow</a>), 🔥 issues, and 🥮 feature requests are most welcome!</p>
-
-<p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
-</p>
-<p align="center">Made with ❤️ in Iran</p>
-
-<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
-
-<p align="center">
-   <img src="./svg/bottom.svg" alt="Github Stats" />
+<p>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-0F172A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
-<!---
-khosrotabar/khosrotabar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Tools & Practices
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+</p>
+
+---
+
+## What I Build
+
+| Area | What I Can Help With |
+| --- | --- |
+| Full-Stack Web Development | Web apps, dashboards, admin panels, internal tools |
+| Go Backend APIs | REST APIs, PostgreSQL, authentication, middleware |
+| Frontend Development | React, Next.js, TypeScript, responsive interfaces |
+| SaaS MVPs | Early product versions, feature development, API integrations |
+| Auth Systems | JWT, RBAC, role-based portals, secure access flows |
+
+---
+
+## Featured Work
+
+### Personal Portfolio
+
+My personal portfolio showcasing my services, tech stack, experience, and selected projects as a Full-Stack Developer focused on Go Backend, React, Next.js, PostgreSQL, APIs, dashboards, and SaaS MVPs.
+
+**Live:** https://khosrotabar.dev
+
+---
+
+### Gym Club — React TypeScript Landing Page
+
+A responsive gym and fitness landing page built with React and TypeScript as a frontend practice project.
+
+**Live:** https://gym-typescript-tau.vercel.app/  
+**Repository:** https://github.com/khosrotabar/gym-typescript
+
+---
+
+### Calendar App — Legacy React Practice Project
+
+An older React practice project created during my early frontend learning journey.
+
+**Repository:** https://github.com/khosrotabar/Calender-App
+
+---
+
+## Current Focus
+
+I'm currently focused on improving and building projects around:
+
+- Go backend APIs
+- PostgreSQL-based applications
+- Authentication and authorization systems
+- React and Next.js dashboards
+- SaaS MVP development
+- Clean architecture and maintainable code
+- Java and Spring Boot fundamentals
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=khosrotabar&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khosrotabar&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## Contact
+
+I'm available for remote freelance, contract, and project-based work.
+
+- Portfolio: https://khosrotabar.dev
+- LinkedIn: https://www.linkedin.com/in/mohammad-khosrotabar
+- GitHub: https://github.com/khosrotabar
+
+---
+
+<div align="center">
+
+### Building practical software with clean UI, reliable APIs, and maintainable code.
+
+</div>
