@@ -87,11 +87,11 @@ Currently, I'm improving my backend engineering skills with Go, Java, Spring Boo
 
 ## Featured Work
 
-### Personal Portfolio
+### Go RBAC API — Reusable Authorization Service
 
-My personal portfolio showcasing my services, tech stack, experience, and selected projects as a Full-Stack Developer focused on Go Backend, React, Next.js, PostgreSQL, APIs, dashboards, and SaaS MVPs.
+A production-oriented RBAC / authorization service built with Go, PostgreSQL, REST, gRPC, service-to-service authentication, local sessions, external identity sync, audit logging, OpenAPI/Swagger docs, Postman collection, smoke tests, and a reusable Go client SDK.
 
-**Live:** https://khosrotabar.dev
+**Repository:** https://github.com/khosrotabar/go-rbac-api
 
 ---
 
@@ -104,11 +104,11 @@ A responsive gym and fitness landing page built with React and TypeScript as a f
 
 ---
 
-### Calendar App — Legacy React Practice Project
+### Personal Portfolio
 
-An older React practice project created during my early frontend learning journey.
+My personal portfolio showcasing my services, tech stack, experience, and selected projects as a Full-Stack Developer focused on Go Backend, React, Next.js, PostgreSQL, APIs, dashboards, and SaaS MVPs.
 
-**Repository:** https://github.com/khosrotabar/Calender-App
+**Live:** https://khosrotabar.dev
 
 ---
 
